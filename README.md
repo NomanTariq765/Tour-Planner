@@ -1,2 +1,2 @@
 # Tour-Planner
-html,css,js
+Using HTML , CSS and Javascript
